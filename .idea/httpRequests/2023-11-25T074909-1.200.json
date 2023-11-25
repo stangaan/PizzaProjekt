@@ -1,0 +1,9 @@
+{
+  "size": 30,
+  "price": 6,
+  "quantity": null,
+  "id": 3,
+  "namePizza": "Andre'sPizza3",
+  "ingredients": "cheese",
+  "pizzaId": 3
+}

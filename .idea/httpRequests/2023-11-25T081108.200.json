@@ -1,0 +1,38 @@
+[
+  {
+    "size": 30,
+    "price": 5,
+    "quantity": null,
+    "id": 2,
+    "namePizza": "Andre'sPizza",
+    "ingredients": "cheese",
+    "pizzaId": 2
+  },
+  {
+    "size": 30,
+    "price": 6,
+    "quantity": null,
+    "id": 3,
+    "namePizza": "Andre'sPizza3",
+    "ingredients": "cheese",
+    "pizzaId": 3
+  },
+  {
+    "size": 30,
+    "price": 6,
+    "quantity": null,
+    "id": 4,
+    "namePizza": "Andre'sPizza3",
+    "ingredients": "cheese",
+    "pizzaId": 3
+  },
+  {
+    "size": 30,
+    "price": 6,
+    "quantity": null,
+    "id": 5,
+    "namePizza": "Andre'sPizza3",
+    "ingredients": "cheese",
+    "pizzaId": 3
+  }
+]

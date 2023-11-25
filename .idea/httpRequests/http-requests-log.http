@@ -1,0 +1,470 @@
+GET http://localhost:8080/api/user/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T082340.404.json
+
+###
+
+GET http://localhost:8080/api/user/alluser
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T082306.200.json
+
+###
+
+GET http://localhost:8080/api/user/alluser
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T082236.404.json
+
+###
+
+GET http://localhost:8080/api/user/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T082206.200.txt
+
+###
+
+GET http://localhost:8080/api/user/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T082201.200.txt
+
+###
+
+GET http://localhost:8080/api/user/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T081219.200.txt
+
+###
+
+GET http://localhost:8080/api/user
+Content-Length: 30
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<<> 2023-11-25T081155.404.json
+
+<> 2023-11-25T081157-1.404.json
+
+###
+
+GET http://localhost:8080/api/user
+Content-Length: 30
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<<> 2023-11-25T081155.404.json
+
+<> 2023-11-25T081157.404.json
+
+###
+
+GET http://localhost:8080/api/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T081155.404.json
+
+###
+
+GET http://localhost:8080/api/pizzas/pizza
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T081108.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 5,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T080912.200.json
+
+###
+
+GET http://localhost:8080/api/user/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T075544.200.txt
+
+###
+
+GET http://localhost:8080/api/user
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T075506.404.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074911.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074909-1.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074909.200.json
+
+###
+
+DELETE http://localhost:8080/api/pizzas/delete1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/pizzas/pizza
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074821-1.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074821.200.json
+
+###
+
+GET http://localhost:8080/api/pizzas/pizza
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074820-1.200.json
+
+###
+
+GET http://localhost:8080/api/caffe/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074820.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074742.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074740.200.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Length: 153
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Content-Type: application/json
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074655.415.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Length: 153
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Content-Type: application/json
+{
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}
+
+<> 2023-11-25T074651.415.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Length: 118
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+
+<> 2023-11-25T074453.415.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Length: 118
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+
+<> 2023-11-25T074451.415.json
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+{:
+"size": 30,
+"price": 6,
+"quantity": null,
+"id": 3,
+"namePizza": "Andre'sPizza3",
+"ingredients": "cheese",
+"pizzaId": 3
+}:
+<> 2023-11-25T074344.400.json:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074428.400.html
+
+###
+
+POST http://localhost:8080/api/pizzas/new-pizza
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074344.400.json
+
+###
+
+GET http://localhost:8080/api/pizzas/pizza
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074339.200.json
+
+###
+
+GET http://localhost:8080/api/caffe/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074328.200.json
+
+###
+
+GET http://localhost:8080/api/caffe/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074324.200.json
+
+###
+
+GET http://localhost:8080/Coffees
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074237.404.json
+
+###
+
+GET http://localhost:8080/Coffees
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074232.404.json
+
+###
+
+GET http://localhost:8080/coffees/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-25T074210.404.json
+
+###
+
+DELETE http://localhost:8080/api/pizzas/delete1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
